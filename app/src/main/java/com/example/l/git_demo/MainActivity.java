@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //text文本
         TextView textView = new TextView(this, null);
+
         //Edtext
         EditText editText = new EditText(this, null);
         //button
